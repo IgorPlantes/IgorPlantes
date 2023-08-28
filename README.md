@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igor_plantes)
 
 
-![Igor Plantes GitHub stats](https://github-readme-stats.vercel.app/api?username=IgoorPlantes&show_icons=true&theme=radical)
+![Igor Plantes GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorPlantes&show_icons=true&theme=radical)
 
 ## Tecnologias:
 
