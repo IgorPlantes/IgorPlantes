@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Igor+Plantes;Desenvolvedor+Back-End;Java+%7C+Spring+Boot+%7C+MySQL;Construindo+APIs+e+solu%C3%A7%C3%B5es+back-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Igor+Plantes;Desenvolvedor+Back-End;Java+%7C+Spring+Boot+%7C+MySQL;Construindo+solu%C3%A7%C3%B5es+back-end" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,11 +21,11 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou o **Igor Plantes**, Desenvolvedor Back-End com foco em evolução constante e construção de soluções simples, organizadas e úteis.
+Sou o **Igor Plantes**, Desenvolvedor Back-End em evolução constante, movido por desafios e pela construção de soluções robustas, organizadas e eficientes. Busco escrever código com propósito, qualidade e clareza, conectando lógica, dados e tecnologia para gerar valor real.
 
 - 🚀 Foco atual: **Java**, **Spring Boot**, **APIs REST** e **MySQL**
-- 🧩 Desenvolvendo APIs bem estruturadas, com código limpo e fácil de manter
-- ⚙️ Interesse em criar soluções back-end seguras, escaláveis e bem documentadas
+- 🧱 Construindo uma base sólida em back-end, lógica de programação, APIs e banco de dados
+- 💡 Transformando aprendizado em projetos práticos, com foco em evolução profissional e entrega de valor
 - 📍 Juiz de Fora - MG, Brasil
 
 ---
@@ -47,7 +47,7 @@ Sou o **Igor Plantes**, Desenvolvedor Back-End com foco em evolução constante 
 ### 📊 GitHub em números
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPlantes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&show=reviews,prs_merged,prs_merged_percentage" alt="Estatísticas do GitHub de Igor Plantes" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPlantes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&locale=pt-br" alt="Estatísticas do GitHub de Igor Plantes" />
 </div>
 
 <div align="center">
@@ -64,13 +64,16 @@ Sou o **Igor Plantes**, Desenvolvedor Back-End com foco em evolução constante 
 
 ---
 
-### 🐍 Contribuições em movimento
+### 📫 Conecte-se comigo
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorPlantes/IgorPlantes/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorPlantes/IgorPlantes/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação snake das contribuições do GitHub" src="https://raw.githubusercontent.com/IgorPlantes/IgorPlantes/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <a href="https://www.linkedin.com/in/igorplantes">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/igor_plantes">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=120&section=footer" alt="Footer" />
