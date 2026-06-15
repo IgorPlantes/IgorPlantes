@@ -1,34 +1,96 @@
-### Olá! Eu sou o Igor Plantes 🖐
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorplantes)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igor_plantes)
-
-![Igor Plantes GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorPlantes&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPlantes&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=IgorPlantes&theme=radical&hide_border=true)
-
-## Tecnologias:
-
-<div style="display: inline_block"><br/>
-
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-
-<img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=180&section=header&text=Igor%20Plantes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Analista%20de%20TI%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20MySQL&descAlignY=58&descSize=16" alt="Header Igor Plantes" />
 </div>
 
-<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Igor+Plantes;Analista+de+TI;Java+%7C+Spring+Boot+%7C+MySQL;Construindo+solu%C3%A7%C3%B5es+com+tecnologia" alt="Typing SVG" />
+  </a>
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IgorPlantes&theme=react-dark&hide_border=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/igorplantes">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/igor_plantes">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/IgorPlantes?tab=followers">
+    <img src="https://img.shields.io/github/followers/IgorPlantes?label=Seguidores&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+> “As coisas não precisam mudar o mundo para serem importantes.”
+
+Sou o **Igor Plantes**, Analista de TI com foco em evolução constante no desenvolvimento back-end. Gosto de transformar problemas em soluções simples, organizadas e úteis.
+
+- 🚀 Foco atual: **Java**, **Spring Boot**, **APIs REST** e **MySQL**
+- 🧠 Estudando boas práticas de back-end, versionamento e arquitetura de software
+- 🤝 Aberto a networking, colaboração e novos desafios
+- 📍 Juiz de Fora - MG, Brasil
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+---
+
+### 📊 GitHub em números
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPlantes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&show=reviews,prs_merged,prs_merged_percentage" alt="Estatísticas do GitHub de Igor Plantes" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPlantes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Linguagens mais usadas por Igor Plantes" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IgorPlantes&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="Sequência de contribuições no GitHub" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IgorPlantes&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="Troféus do GitHub" />
+</div>
+
+---
+
+### 📈 Atividade recente
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorPlantes&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&area_color=F85D7F&custom_title=Contribui%C3%A7%C3%B5es%20recentes" alt="Gráfico de atividade do GitHub" />
+</div>
+
+---
+
+### 🐍 Contribuições em movimento
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorPlantes/IgorPlantes/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorPlantes/IgorPlantes/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação snake das contribuições do GitHub" src="https://raw.githubusercontent.com/IgorPlantes/IgorPlantes/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### 📌 Próximos passos no perfil
+
+- Publicar e fixar projetos com **Java + Spring Boot + MySQL**
+- Adicionar README completo nos projetos principais
+- Mostrar APIs, estudos, desafios e aplicações práticas
+- Manter o gráfico de contribuições ativo com commits consistentes
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=120&section=footer" alt="Footer" />
+</div>
