@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=180&section=header&text=Igor%20Plantes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Analista%20de%20TI%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20MySQL&descAlignY=58&descSize=16" alt="Header Igor Plantes" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=180&section=header&text=Igor%20Plantes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20Back-End%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20MySQL&descAlignY=58&descSize=16" alt="Header Igor Plantes" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Igor+Plantes;Analista+de+TI;Java+%7C+Spring+Boot+%7C+MySQL;Construindo+solu%C3%A7%C3%B5es+com+tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Igor+Plantes;Desenvolvedor+Back-End;Java+%7C+Spring+Boot+%7C+MySQL;Construindo+APIs+e+solu%C3%A7%C3%B5es+back-end" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,22 +15,17 @@
   <a href="https://instagram.com/igor_plantes">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://github.com/IgorPlantes?tab=followers">
-    <img src="https://img.shields.io/github/followers/IgorPlantes?label=Seguidores&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
-  </a>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-> “As coisas não precisam mudar o mundo para serem importantes.”
-
-Sou o **Igor Plantes**, Analista de TI com foco em evolução constante no desenvolvimento back-end. Gosto de transformar problemas em soluções simples, organizadas e úteis.
+Sou o **Igor Plantes**, Desenvolvedor Back-End com foco em evolução constante e construção de soluções simples, organizadas e úteis.
 
 - 🚀 Foco atual: **Java**, **Spring Boot**, **APIs REST** e **MySQL**
-- 🧠 Estudando boas práticas de back-end, versionamento e arquitetura de software
-- 🤝 Aberto a networking, colaboração e novos desafios
+- 🧩 Desenvolvendo APIs bem estruturadas, com código limpo e fácil de manter
+- ⚙️ Interesse em criar soluções back-end seguras, escaláveis e bem documentadas
 - 📍 Juiz de Fora - MG, Brasil
 
 ---
@@ -53,15 +48,10 @@ Sou o **Igor Plantes**, Analista de TI com foco em evolução constante no desen
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPlantes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&show=reviews,prs_merged,prs_merged_percentage" alt="Estatísticas do GitHub de Igor Plantes" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPlantes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Linguagens mais usadas por Igor Plantes" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=IgorPlantes&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="Sequência de contribuições no GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IgorPlantes&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="Troféus do GitHub" />
 </div>
 
 ---
@@ -81,15 +71,6 @@ Sou o **Igor Plantes**, Analista de TI com foco em evolução constante no desen
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorPlantes/IgorPlantes/output/github-contribution-grid-snake.svg" />
   <img alt="Animação snake das contribuições do GitHub" src="https://raw.githubusercontent.com/IgorPlantes/IgorPlantes/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-### 📌 Próximos passos no perfil
-
-- Publicar e fixar projetos com **Java + Spring Boot + MySQL**
-- Adicionar README completo nos projetos principais
-- Mostrar APIs, estudos, desafios e aplicações práticas
-- Manter o gráfico de contribuições ativo com commits consistentes
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=120&section=footer" alt="Footer" />
